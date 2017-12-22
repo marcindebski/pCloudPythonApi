@@ -8,6 +8,3 @@ script: python tests/test_api.py
 branches:
   only:
     - master
-notifications:
-  email:
-    - debski.marcin.r@gmail.com
